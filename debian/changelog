@@ -1,6 +1,12 @@
-ttf-simfang (1.1) oneiric; urgency=low
+ttf-simfang (1.0-2) oneiric; urgency=low
 
-  * 初次打包
+  * 修改版本号，覆盖ppa现有的包
+
+ -- Wang Mingdong <wangmingdong@linuxdeepin.com>  Tue, 22 Nov 2011 16:45:13 +0800
+
+ttf-simfang (1.0) oneiric; urgency=low
+
+  * 修改原安装包，在rules中使用dh $@
 
  -- Wang Mingdong <wangmingdong@linuxdeepin.com>  Tue, 22 Nov 2011 14:20:07 +0800
 
