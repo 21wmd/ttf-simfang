@@ -1,0 +1,12 @@
+ttf-simfang (1.0-0deepin2) maverick; urgency=low
+
+  * 改变字体位置，以防永中 Office 卸载时将其删除
+
+ -- Leng Ganghua <hiweed@gmail.com>  Fri, 24 Dec 2010 19:25:01 +0800
+
+ttf-simfang (1.0-0deepin1) maverick; urgency=low
+
+  * 初次发布。仿宋。
+
+ -- Leng Ganghua <hiweed@gmail.com>  Sat,  11 Dec 2010 05:11:00 +0800
+

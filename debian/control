@@ -1,0 +1,11 @@
+Source: ttf-simfang
+Section: admin
+Priority: optional
+Maintainer: Leng Ganghua <hiweed@gmail.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: ttf-simfang
+Architecture: all
+Description: 仿宋
+ 黑、宋、仿、楷是国家提供的国标字，任何人都可以免费使用

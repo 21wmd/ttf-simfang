@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+
+fc-cache -fv /usr/X11R6/lib/X11/fonts/TrueType
+fc-cache -fv /usr/share/fonts/truetype/sim
