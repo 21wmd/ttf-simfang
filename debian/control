@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: Wang Mingdong <wangmingdong@linuxdeepin.com>
 Build-Depends: debhelper (>= 8)
 Standards-Version: 3.9.2
-Homepage: http://www.linuxdeepin.com
-Vcs-Browser: http://github.com/21wmd/ttf-simfang
-Vcs-Git: git://github.com/21wmd/ttf-simfang
+Homepage: http://www.linuxdeepin.com/
+Vcs-Browser: https://github.com/21wmd/grub2-theme-deepin
+Vcs-Git: git://github.com/21wmd/grub2-theme-deepin.git
 
 Package: ttf-simfang
 Architecture: all
