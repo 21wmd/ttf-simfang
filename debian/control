@@ -1,11 +1,15 @@
 Source: ttf-simfang
 Section: admin
 Priority: optional
-Maintainer: Leng Ganghua <hiweed@gmail.com>
-Build-Depends: debhelper (>= 5)
-Standards-Version: 3.7.2
+Maintainer: Wang Mingdong <wangmingdong@linuxdeepin.com>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.2
+Homepage: http://www.linuxdeepin.com
+Vcs-Browser: http://github.com/21wmd/ttf-simfang
+Vcs-Git: git://github.com/21wmd/ttf-simfang
 
 Package: ttf-simfang
 Architecture: all
-Description: 仿宋
- 黑、宋、仿、楷是国家提供的国标字，任何人都可以免费使用
+Depends: ${misc:Depends}
+Description: Typeface for simfang
+ Linux Deepin make this simfang packages.

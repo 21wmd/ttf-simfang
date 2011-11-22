@@ -1,3 +1,9 @@
+ttf-simfang (1.0-0deepin3) oneiric; urgency=low
+
+  * 初次打包
+
+ -- Wang Mingdong <wangmingdong@linuxdeepin.com>  Tue, 22 Nov 2011 14:20:07 +0800
+
 ttf-simfang (1.0-0deepin2) maverick; urgency=low
 
   * 改变字体位置，以防永中 Office 卸载时将其删除
