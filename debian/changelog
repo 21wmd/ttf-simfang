@@ -1,24 +1,30 @@
+ttf-simfang (1.1-1) oneiric; urgency=low
+
+  * change version number
+
+ -- Wang Mingdong <wangmingdong@linuxdeepin.com>  Wed, 23 Nov 2011 14:41:57 +0800
+
 ttf-simfang (1.0-2) oneiric; urgency=low
 
-  * 修改版本号，覆盖ppa现有的包
+  * make package
 
  -- Wang Mingdong <wangmingdong@linuxdeepin.com>  Tue, 22 Nov 2011 16:45:13 +0800
 
 ttf-simfang (1.0) oneiric; urgency=low
 
-  * 修改原安装包，在rules中使用dh $@
+  * change the original software package，rules for dh $@
 
  -- Wang Mingdong <wangmingdong@linuxdeepin.com>  Tue, 22 Nov 2011 14:20:07 +0800
 
 ttf-simfang (1.0-0deepin2) maverick; urgency=low
 
-  * 改变字体位置，以防永中 Office 卸载时将其删除
+  * Change font position.
 
  -- Leng Ganghua <hiweed@gmail.com>  Fri, 24 Dec 2010 19:25:01 +0800
 
 ttf-simfang (1.0-0deepin1) maverick; urgency=low
 
-  * 初次发布。仿宋。
+  * Initial release
 
  -- Leng Ganghua <hiweed@gmail.com>  Sat,  11 Dec 2010 05:11:00 +0800
 
